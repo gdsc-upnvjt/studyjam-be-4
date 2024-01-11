@@ -6,7 +6,13 @@
 npm install
 ```
 
-#### To run
+#### To run development
+
+```bash
+npm run start-dev
+```
+
+#### To run production
 
 ```bash
 npm run start
